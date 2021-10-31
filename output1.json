@@ -1,0 +1,42 @@
+{
+    "Tabella": {
+        "Riga": [
+            {
+                "data": "2020-08-31T00:00:00.000",
+                "Cliente": "Associazione Adriatico Mediterraneo",
+                "descrizioneTipoSoggetto": "Organizzazione non governativa",
+                "DescTipoProd": "Bene",
+                "denominazioneProdotto": "smartphone",
+                "importo": "5000",
+                "Fornitore": "Mela"
+            },
+            {
+                "data": "2020-09-08T00:00:00.000",
+                "Cliente": "Conad",
+                "descrizioneTipoSoggetto": "Piccola Media Impresa",
+                "DescTipoProd": "Bene",
+                "denominazioneProdotto": "server",
+                "importo": "210000",
+                "Fornitore": "Dell"
+            },
+            {
+                "data": "2020-09-08T00:00:00.000",
+                "Cliente": "Conad",
+                "descrizioneTipoSoggetto": "Piccola Media Impresa",
+                "DescTipoProd": "Bene",
+                "denominazioneProdotto": "server",
+                "importo": "150000",
+                "Fornitore": "HP"
+            },
+            {
+                "data": "2019-06-18T00:00:00.000",
+                "Cliente": "Mario Rossi",
+                "descrizioneTipoSoggetto": "Privato",
+                "DescTipoProd": "Bene",
+                "denominazioneProdotto": "smartphone",
+                "importo": "500",
+                "Fornitore": "Samsung"
+            }
+        ]
+    }
+}
